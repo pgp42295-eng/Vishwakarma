@@ -5,9 +5,9 @@
 
 | | |
 |---|---|
-| **Live website** | `https://<your-project>.vercel.app` ← *replace after deploying* |
+| **Live website** | `https://vishwakarma-iiml.vercel.app` |
 | **Demo (no login)** | Same link. If the backend isn't connected, the site opens in demo mode with sample data |
-| **Demo accounts (live mode)** | Student: `demo.student@iiml.ac.in` · SAO admin: `sao.desk@iiml.ac.in` (passwords shared in submission form) |
+| **Demo accounts (live mode)** | Student: `demo.student@iiml.ac.in` · SAO admin: `saodesk@iiml.ac.in` (passwords shared in submission form) |
 | **Built by** | Athul Krishna · Overtures 2026, Round 2 |
 | **AI used** | Claude (Cowork mode, by Anthropic) for code, documentation and poster design. Full prompt log in [`PROMPTS.md`](PROMPTS.md) |
 
@@ -22,7 +22,7 @@
 
 ### How often
 Room-level breakdowns happen every week across campus, and they spike after power cuts, during monsoon (plumbing and seepage) and at the start of term when rooms change hands.
-*Survey result: _[fill in: e.g. "7 of 10 batchmates I asked had raised at least one repair request this term; 6 said the worker came while they were in class at least once."]_*
+*Survey result: _[fill in: e.g. "7 of 10 batchmates I asked had raised at least one repair request this term; 3 said the worker came while they were in class at least once."]_*
 
 ### How it works today (as-is)
 1. Student needs a carpenter, electrician or plumber.
